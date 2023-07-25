@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'FlutterToast/Classes/FlutterToast.h'
+  s.source_files = 'FlutterToast/Classes/**/*'
   
 end
