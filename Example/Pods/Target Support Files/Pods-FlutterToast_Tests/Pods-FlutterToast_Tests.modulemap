@@ -1,0 +1,6 @@
+framework module Pods_FlutterToast_Tests {
+  umbrella header "Pods-FlutterToast_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

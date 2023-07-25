@@ -1,0 +1,16 @@
+PODS:
+  - FlutterToast (0.1.0)
+
+DEPENDENCIES:
+  - FlutterToast (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterToast: fc1d80ad99c07aa02322ff39b5e3b858d0790baa
+
+PODFILE CHECKSUM: 04edd75d6423f798a1b4c8c2d65743817029a9e3
+
+COCOAPODS: 1.12.1
